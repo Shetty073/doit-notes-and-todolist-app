@@ -1,2 +1,9 @@
-# doit-notes-and-todolist-app
-Android/iOS notetaking and todolist app developed in flutter(dart).
+# doit
+
+A note taking application
+
+## Release
+
+> 1.0
+
+## Readme will be updated soon
